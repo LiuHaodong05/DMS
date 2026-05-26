@@ -1,0 +1,15 @@
+# OS files
+Thumbs.db
+*.swp
+*.swo
+
+# PHP
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Backup
+backup/
